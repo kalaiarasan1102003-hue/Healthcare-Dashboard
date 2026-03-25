@@ -50,9 +50,6 @@ The dataset includes:
 
 ---
 
- 📷 Dashboard Preview
-(Add screenshots here)
-
 ---
 
  📌 Impact
